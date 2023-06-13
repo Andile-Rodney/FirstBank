@@ -4,6 +4,9 @@ public class Main {
 
         Account rodney = new Account("Rodney Zhou", "A00001");
         rodney.showMenu();
+        
+        Account mthunzi = new Account("Qethuka Sphinde", "A0011")
+            mthunzi.showMenu();
 
         //System.out.println("Hello world!");
     }
